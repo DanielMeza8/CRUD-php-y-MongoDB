@@ -1,0 +1,34 @@
+.bg{
+    background-image: url('https://picsum.photos/1920/1200');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.titulo{
+    /*color: rgb(red, green, blue);*/
+    color: #FFFF00;
+}
+
+.titulo2{
+    /*color: rgb(red, green, blue);*/
+    color: black;
+}
+
+.titulo3{
+    /*color: rgb(red, green, blue);*/
+    color: beige;
+}
+
+.bg2{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,63,1) 35%, rgba(0,212,255,1) 100%);
+/*    color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);*/
+}
+
+.bg3{
+    background: linear-gradient(90deg, rgba(0,181,255,1) 0%, rgba(0,181,255,1) 35%, rgba(0,181,255,0.06766456582633051) 100%);
+}
+
+.bg4{
+    background: linear-gradient(90deg, rgba(89,98,102,0.8015581232492998) 62%, rgba(102,97,89,0) 100%);
+}
